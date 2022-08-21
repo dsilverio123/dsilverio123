@@ -17,8 +17,8 @@ I'm Daniel, a self-taught data analyst from Georgia, USA.
 - Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
 
 ⚡️ **Currently** ⚡️
-- Brushing up on data cleaning and wrangling skills using Python
-- Learning database administration
+- Brushing up on data cleaning and wrangling skills using Python (Pandas)
+- Studying for DP-900: Microsoft Azure Data Fundamentals
 - Course: Computing in Python I: Fundamentals and Procedural Programming
 
 🙌🏻 **Connect with Me**
