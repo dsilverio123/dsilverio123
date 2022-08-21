@@ -13,7 +13,7 @@ I'm Daniel, a self-taught data analyst from Georgia, USA.
 - Want to learn visualize data, but not sure where to start? Click [HERE](https://medium.com/@dsilverio/tableau-and-georgia-data-how-to-4757d52a2249)
 
 💡 **Core Competencies** 💡
-- Tools: SQL, Python, Power Bi, Power Query, GTM
+- Tools: SQL, Python, Power Bi, Power Query, GTM, Java, JS
 - Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
 
 ⚡️ **Currently** ⚡️
