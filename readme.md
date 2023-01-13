@@ -2,7 +2,7 @@ Hi there!
 
 I'm Daniel, a self-taught data engineer from Georgia, USA.
 
-✨ **About Me in 30 Secs** ✨
+🌎 **About Me in 30 Secs** 🌎
 - 👔 Experience w/ small business web-design and e-commerce
 
 - 📚 Technical writer of instruction, visualization, and action
