@@ -1,11 +1,11 @@
 Hi there! 
 
-I'm Daniel, a self-taught data engineer from Georgia, USA.
+I'm Daniel, a Computer Science Student @ Western Governors University from Georgia, USA.
 
 🌎 **About Me in 30 Secs** 🌎
 - 👔 Experience w/ small business web-design and e-commerce
-
 - 📚 Technical writer of instruction, visualization, and action
+- 🌎 ETRM (Energy Trading Risk Management) Industry Experience
 
 **Click [HERE](https://medium.com/@dsilverio) for my projects and guides**
 - Want to learn visualize data, but not sure where to start? Click [HERE](https://medium.com/@dsilverio/tableau-and-georgia-data-how-to-4757d52a2249)
